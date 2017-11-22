@@ -1,4 +1,4 @@
-
+require('./gulp/sprite.js');
 const gulp = require('gulp'),
     browserSync = require('browser-sync').create(),
     sass = require('gulp-sass'),
