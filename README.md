@@ -25,7 +25,7 @@ $ npm start
 
 ### SVG Sprite
 
-This will allow us to create svg sprites for project. just need to put images in folder
+This will allow us to create svg sprites for project. just need to put the svg icons in app/assets/images/icons and run
 
 ```sh
 $ gulp icons
